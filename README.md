@@ -24,3 +24,5 @@ Several assumptions were made in the formulation of these equations: First, an i
 SIRmodel_Simulink.slx contains the solution of differential equations using MATLAB simulink so basic concept can be understood.
 
 ![Simulink_Sema_SIR](https://user-images.githubusercontent.com/62447953/84579709-67882580-add0-11ea-8828-c45432c79c0c.jpg)
+
+![SIR_Sim_2](https://user-images.githubusercontent.com/62447953/84579735-c0f05480-add0-11ea-86ec-f93a24e8039e.jpg)
