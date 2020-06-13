@@ -27,6 +27,7 @@ SIRmodel_Simulink.slx contains the solution of differential equations using MATL
 
 ![SIR_Graf](https://user-images.githubusercontent.com/62447953/84579851-cdc17800-add1-11ea-9c61-7ed744078717.jpg)
 
+For changing the model parameters easily i made a MATLAB GUI so it's more straight forward process
 ![SIR_GUI](https://user-images.githubusercontent.com/62447953/84579938-8be50180-add2-11ea-9c7e-aa1729e07f4a.jpg)
 
 ![SIR_GUI_HOLD](https://user-images.githubusercontent.com/62447953/84579939-8edff200-add2-11ea-9641-e9d8e19fe3dc.jpg)
