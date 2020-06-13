@@ -8,8 +8,11 @@ The basic reproduction number can be computed as a ratio of known rates over tim
 
 ## The SIR model
 The SIR model divides the population in three groups:
+
 S(t) is used to represent the individuals not yet infected with the disease at time t, or those susceptible to the disease of the population.
+
 I(t) denotes the individuals of the population who have been infected with the disease and are capable of spreading the disease to those in the susceptible category.
+
 R(t) is the compartment used for the individuals of the population who have been infected and then removed from the disease, either due to immunization or due to death. Those in this category are not able to be infected again or to transmit the infection to others.
 
 Using a fixed population,N = S(t) + I(t) + R(t) in the three functions resolves that the value N should remain constant within the simulation. The model is started with values of S(t=0), I(t=0) and R(t=0). These are the number of people in the susceptible, infected and removed categories at time equals zero. Subsequently, the flow model updates the three variables for every time point with set values for β  and γ . The simulation first updates the infected from the susceptible and then the removed category is updated from the infected category for the next time point (t=1). This describes the flow persons between the three categories. During an epidemic the susceptible category is not shifted with this model, β changes over the course of the epidemic and so does γ . These variables determine the length of the epidemic and would have to be updated with each cycle. 
