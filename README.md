@@ -25,4 +25,4 @@ SIRmodel_Simulink.slx contains the solution of differential equations using MATL
 
 ![Simulink_Sema_SIR](https://user-images.githubusercontent.com/62447953/84579709-67882580-add0-11ea-8828-c45432c79c0c.jpg)
 
-![SIR_Sim_2](https://user-images.githubusercontent.com/62447953/84579735-c0f05480-add0-11ea-86ec-f93a24e8039e.jpg)
+![SIR_Graf](https://user-images.githubusercontent.com/62447953/84579851-cdc17800-add1-11ea-9c61-7ed744078717.jpg)
